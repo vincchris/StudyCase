@@ -1,4 +1,4 @@
-# Challenge: Shopping Total
+# Challenge 01: Shopping Total
 # Calculate the total cost of all purchased items.
 
 # Example:

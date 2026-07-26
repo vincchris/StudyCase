@@ -1,4 +1,4 @@
-# Challenge 08: Multiplication Table
+# Challenge 09: Multiplication Table
 
 # Print the multiplication table for a given number.
 

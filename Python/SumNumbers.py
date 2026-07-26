@@ -1,4 +1,4 @@
-# Challenge 08: Sum Numbers
+# Challenge 07: Sum Numbers
 
 # Calculate the sum of all numbers from 1 to 5.
 

@@ -1,4 +1,4 @@
-# Challenge 09: Largest Number
+# Challenge 08: Largest Number
 
 # Find the largest number in an array.
 
