@@ -1,4 +1,4 @@
-// Challenge 27: Count Negative Numbers
+// Challenge 29: Count Negative Numbers
 // Count how many negative numbers
 // exist in an array.
 
