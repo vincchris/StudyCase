@@ -17,3 +17,6 @@ for i in range(len(numbers)):
     negative += 1
 
 print(negative)
+
+
+name = "John Doe"
